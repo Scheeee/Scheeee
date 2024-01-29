@@ -4,5 +4,4 @@ Oii! Eu sou a Scheligan mas pode me chamar de Sche :)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Scheeee&layout=pie&langs_count=8&theme=radical" />
 </a>
 
-
-![Snake animation](https://github.com/Scheeee/Scheeee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Scheeee/Scheeee/blob/output/github-contribution-grid-snake.svg)
